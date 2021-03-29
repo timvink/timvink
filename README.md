@@ -7,7 +7,7 @@ Find me at [timvink.nl](https://www.timvink.nl).
 <table style="width:100%">
   <tr>
     <th>date</th>
-    <th>update</th>
+    <th>title</th>
   </tr>
 <!-- BLOG-POST-LIST:START -->
 <tr><td>2020-09-15</td><td><a href="https://www.timvink.nl/mkdocs-for-tech-doc/">Using MkDocs for technical reporting</a></td></tr>
