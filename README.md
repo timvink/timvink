@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**timvink/timvink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Find me at [timvink.nl](https://www.timvink.nl).
 
-Here are some ideas to get you started:
+## Latest blog posts:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table style="width:100%">
+  <tr>
+    <th>date</th>
+    <th>update</th>
+  </tr>
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+</table>

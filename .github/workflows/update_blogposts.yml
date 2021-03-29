@@ -1,0 +1,21 @@
+name: Update blog posts
+on:
+  schedule: # Run workflow automatically
+    - cron: '34 6 * * *' # Everyday at 6:34, see https://crontab.guru/#34_6_*_*_*
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+  push:
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://timvink.nl/feed.xml"
+          max_post_count: 3
+          template: '<tr><td>$date</td><td><a href="$url">$title</a></td></tr>$newline'
+          tag_post_pre_newline: true
+          date_format: UTC:yyyy-mm-dd
+          title_max_length: 75
+          commit_message: 'ci: :memo: blog update'
