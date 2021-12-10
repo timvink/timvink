@@ -1,6 +1,6 @@
 ### Hello 👋
 
-Find me online at [timvink.nl](https://www.timvink.nl). See also my [overview of open source projects](https://timvink.github.io/project-monitor/).
+Find me online at [timvink.nl](https://www.timvink.nl). See the overview of my open source projects at my [project monitor](https://timvink.github.io/project-monitor/).
 
 ## Latest blog posts:
 
