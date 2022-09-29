@@ -1,7 +1,7 @@
 name: Update blog posts
 on:
   schedule: # Run workflow automatically
-    - cron: '34 6 * * *' # Everyday at 6:34, see https://crontab.guru/#34_6_*_*_*
+    - cron: '34 6 * * 1,5' # Everyday at 6:34, see https://crontab.guru/#34_6_*_*_1,5*
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
   push:
 jobs:
