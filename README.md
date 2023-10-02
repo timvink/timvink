@@ -10,9 +10,9 @@ Find me online at [timvink.nl](https://www.timvink.nl). See the overview of my o
     <th>title</th>
   </tr>
 <!-- BLOG-POST-LIST:START -->
-<tr><td>2022-12-19</td><td><a href="https://www.timvink.nl/databricks-query-speed/">Speeding up databricks SQL queries</a></td></tr>
-<tr><td>2022-09-19</td><td><a href="https://www.timvink.nl/is-xgboost-all-we-need/">Is XGBoost really all we need?</a></td></tr>
-<tr><td>2022-06-15</td><td><a href="https://www.timvink.nl/post-balanced-trees/">Adjusting the bootstrap in Random Forest</a></td></tr>
+<tr><td>2022-12-19</td><td><a href="https://timvink.nl/blog/databricks-query-speed/">Speeding up databricks SQL queries</a></td></tr>
+<tr><td>2022-09-19</td><td><a href="https://timvink.nl/blog/is-xgboost-all-we-need/">Is XGBoost really all we need?</a></td></tr>
+<tr><td>2022-06-15</td><td><a href="https://timvink.nl/blog/post-balanced-trees/">Adjusting the bootstrap in Random Forest</a></td></tr>
 
 <!-- BLOG-POST-LIST:END -->
 </table>
